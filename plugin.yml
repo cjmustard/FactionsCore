@@ -1,0 +1,17 @@
+name: Factions
+main: CJMustard1452\FactionsCore\main
+api: 4.0.2
+version: 1.0.0
+author: CJMustard1452
+
+commands:
+  faction:
+    description: Facton Commands
+    aliases:
+      - f
+      - fac
+    permission: LS
+
+permissions:
+ LS:
+  default: op
